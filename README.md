@@ -27,5 +27,7 @@ cd game-rating-predictor
 pip install flask flask-cors pandas numpy scikit-learn openpyxl
 =======
 # game-matcher
-This project is a Game Rating Predictor, an API-based system built with Flask and a K-Nearest Neighbors (KNN) model to predict video game scores. It processes player interaction metrics (plays, playing, backlogs, wishlist) normalized via Min-Max Scaling and encodes genre categories.
->>>>>>> 4da1ada9b1b0d9b663ddaa0defdba4abf5559e89
+This project is a Game Rating Predictor, an API-based system built with Flask and a K-Nearest Neighbors (KNN) model to
+predict video game scores. It processes player interaction metrics (plays, playing, backlogs, wishlist)
+normalized via Min-Max Scaling and encodes genre categories.
+
