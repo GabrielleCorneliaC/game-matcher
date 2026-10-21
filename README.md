@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎮 Game Rating Predictor (KNN)
 
 An API-based application built with **Flask** that uses the **K-Nearest Neighbors (KNN)** algorithm to predict a video game's rating. The model is trained on a dataset containing player activity metrics (Plays, Playing, Backlogs, Wishlist) and game genres.
